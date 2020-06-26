@@ -1,0 +1,13 @@
+.btn-fb {
+	background-color: #B8E8FF;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	margin: 36%;
+}
+
+.btn-fb:hover {
+	background-color: black;
+	color: white;

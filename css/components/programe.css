@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@200&family=Piedra&display=swap');
+
+.programe {
+	width: 700px;
+	margin: 80px auto;	
+
+}
+
+.liste {
+	margin: 0px 6% 60px;
+}
+
+li {
+	list-style: none;
+}
+
+.programe h3 {
+	font-family: 'MuseoModerno', cursive;
+	text-align: center;
+	color: #cf001c;
+}

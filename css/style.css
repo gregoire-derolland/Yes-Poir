@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital@1&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/portraits.css");
+@import url("components/programe.css");
+
+body {
+	font-family: 'Roboto', sans-serif; 
+	font-size: 20px;
+	background-color: #EEF1EF;
+}
+
+h1 {
+	font-family: 'Piedra', cursive;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: 'Work Sans', sans-serif;
+	margin: 80px 0 0;
+}
+
+a {
+	text-decoration: none;
+}

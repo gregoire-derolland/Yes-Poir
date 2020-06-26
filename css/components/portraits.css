@@ -1,0 +1,51 @@
+.portraitS {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+
+.portrait img {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	align-content: center;
+}
+
+.portrait {
+	padding: 30px;
+	width:
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	margin: 5px;
+	background-color: white;
+	flex-grow: 1;
+}
+
+.portrait h3 {
+	flex-grow: 1;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size: 18px;
+	text-align: center;
+}
+
+.portrait a {
+	background-color: #B8E8FF;
+	padding: 6px 4px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	font-size: 14px;
+	align-items: center;
+	margin: 27%;
+}
+
+.pole {
+	margin: 0 19%;
+}
